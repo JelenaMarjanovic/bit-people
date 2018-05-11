@@ -1,0 +1,29 @@
+<pre>
+src
+  /app
+    /about
+      AboutPage
+    /common
+      /loader
+        Loader
+      Footer
+      Header
+      Main
+        Search
+    /users
+      UserCard
+      UserItem
+      UsersList
+    App
+  /data
+    users
+  /models
+      Dob
+      Email
+      Name
+      Picture
+    User
+  /services
+    UserServices
+index
+</pre>
