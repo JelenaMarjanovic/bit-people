@@ -2,7 +2,7 @@
   "name": "bit-people",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JelenaMarjanovic.github.io/bit-people",
+  "homepage": "https://JelenaMarjanovic.github.io/bit-people/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^1.1.0",
