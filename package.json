@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://JelenaMarjanovic.github.io/bit-people/",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "gh-pages": "^1.1.0",
     "npm": "^6.13.4",
     "react": "^16.2.0",
